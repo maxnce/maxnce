@@ -1,5 +1,5 @@
-### Hello, world!
-### The name's Maxence, and I'm a 18yo 1st year student at Epitech!
+### Hello, world! ✨
+### The name's Maxence, and I'm a 18yo 1st year student at Epitech! ✨
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maxnce&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
